@@ -1,3 +1,3 @@
 function sum () {
-console.log("testing")
+console.log("testing multipl");
 }
